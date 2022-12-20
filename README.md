@@ -1,4 +1,4 @@
-<h2> <em> DXTEC1 </h2> <h4> sensor de temperatura para uso diario </em> </h4>
+<h2> <em> DXTEC1 </h2> <h4> sensor de temperatura para lavamanos/lavaplatos de uso diario </em> </h4>
 <br>
 <img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/203079755-674f5aa7-511f-42e9-83ea-b8e8101bbe0b.jpg")>
 <img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/203078579-5acac648-aedd-4975-811f-bc6bfe051529.png">
