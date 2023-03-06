@@ -1,4 +1,4 @@
-<h2> <em> DXTEC1 </h2> <h4> Proyecto modulo para sensar temperatura para lavamanos/lavaplatos dirigido a personas con capacidad reducida de sensibilidad en extremidades. </em> </h4>
+<h2> <em> DXTEC1 </h2> <h4> Proyecto módulo para sensar temperatura para lavamanos/lavaplatos dirigido a personas con capacidad reducida de sensibilidad en extremidades. </em> </h4>
 <br>
 
 <img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/223199018-39a4a63b-c0e7-4e15-af4e-d039de69c156.png">
